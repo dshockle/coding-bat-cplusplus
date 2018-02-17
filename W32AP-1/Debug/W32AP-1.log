@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  W32AP-1.cpp
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(112): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(159): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(253): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(308): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(422): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(448): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(498): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(500): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(503): warning C4018: '<': signed/unsigned mismatch
+c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\w32ap-1\w32ap-1.cpp(531): warning C4018: '<': signed/unsigned mismatch
+  W32AP-1.vcxproj -> C:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\CPPCodingBat\Debug\W32AP-1.exe
+  W32AP-1.vcxproj -> C:\Users\v-dashoc\Documents\Visual Studio 2015\Projects\CPPCodingBat\Debug\W32AP-1.pdb (Full PDB)
