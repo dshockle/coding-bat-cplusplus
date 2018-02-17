@@ -1,0 +1,148 @@
+﻿Build started 2/15/2016 4:27:40 PM.
+     1>Project "c:\Users\v-dashoc\documents\visual studio 2015\Projects\CPPCodingBat\CPPCodingBat\CPPCodingBat.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\CPPWarmup-1.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "CPPWarmup-1.cpp"
+         CPPWarmup-1.cpp
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(16): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(17): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(17): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(30): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(31): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(31): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(43): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(44): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(44): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(59): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(60): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(60): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(79): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(80): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(80): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(102): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(103): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(103): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(116): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(117): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(117): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(130): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(131): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(131): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(153): error C2059: syntax error: 'public'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(154): error C2143: syntax error: missing ';' before '{'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(154): error C2447: '{': missing function header (old-style formal list?)
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(165): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(165): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(165): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(166): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(166): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(166): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(166): error C3861: 'sleepIn': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(166): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(167): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(167): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(167): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(167): error C3861: 'sleepIn': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(168): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(168): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(168): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(168): error C3861: 'sleepIn': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(168): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(170): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(170): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(170): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(171): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(171): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(171): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(171): error C3861: 'monkeyTrouble': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(171): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(172): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(172): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(172): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(172): error C3861: 'monkeyTrouble': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(172): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(173): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(173): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(173): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(173): error C3861: 'monkeyTrouble': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(175): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(175): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(175): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(176): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(176): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(176): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(176): error C3861: 'sumDouble': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(177): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(177): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(177): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(177): error C3861: 'sumDouble': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(178): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(178): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(178): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(178): error C3861: 'sumDouble': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(180): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(180): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(180): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(181): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(181): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(181): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(181): error C3861: 'close10': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(182): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(182): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(182): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(182): error C3861: 'close10': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(183): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(183): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(183): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(183): error C3861: 'close10': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(185): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(185): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(185): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(186): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(186): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(186): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(186): error C3861: 'stringC': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(186): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(187): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(187): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(187): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(187): error C3861: 'stringC': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(187): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(188): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(188): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(188): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(188): error C3861: 'stringC': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(190): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(190): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(190): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(191): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(191): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(191): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(191): error C3861: 'stringCLinq': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(191): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(192): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(192): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(192): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(192): error C3861: 'stringCLinq': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(192): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(193): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(193): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(193): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(193): error C3861: 'stringCLinq': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(195): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(195): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(195): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(196): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(196): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(196): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(196): error C3861: 'lastDigit': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(196): warning C4805: '==': unsafe mix of type 'unknown-type' and type 'bool' in operation
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(197): error C2065: 'Console': undeclared identifier
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(197): error C2228: left of '.WriteLine' must have class/struct/union
+         c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(197): note: type is 'unknown-type'
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(197): error C3861: 'lastDigit': identifier not found
+     1>c:\users\v-dashoc\documents\visual studio 2015\projects\cppcodingbat\cppcodingbat\cppwarmup-1.cpp(197): fatal error C1003: error count exceeds 100; stopping compilation
+     1>Done Building Project "c:\Users\v-dashoc\documents\visual studio 2015\Projects\CPPCodingBat\CPPCodingBat\CPPCodingBat.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.15
